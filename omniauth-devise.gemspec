@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Devise Strategy for Omniauth}
   spec.description   = %q{Devise is no more a all in one authentication mechanism but a simple provider among others in the omniaut realm}
-  spec.homepage      = "https://github.com/charly/omniauth-devise'"
+  spec.homepage      = "https://github.com/charly/omniauth-devise"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
